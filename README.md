@@ -7,6 +7,11 @@ erase_restore is a Flutter package that provides a simple and customizable way t
 [![GitHub forks](https://img.shields.io/github/forks/Apach3Q/erase_restore?logo=github&style=flat-square)](https://github.com/Apach3Q/erase_restore/network/members)
 
 ---
+For a more throughout example see the example.
+
+[video](https://github.com/Apach3Q/erase_restore/assets/21135761/7b20ccaa-a549-4e0c-972e-f20a44e4e84d)
+
+---
 ## How to Use
 
 ### Getting started
